@@ -1,0 +1,10 @@
+127.0.0.1 - - [12/Aug/2022:18:01:20 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:01:21 +0530] "GET /WebApplication1/ HTTP/1.1" 404 1092
+127.0.0.1 - - [12/Aug/2022:18:04:58 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:04:58 +0530] "GET /WebApplication1/WEB-INF/index.html HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:14:35 +0530] "GET /WebApplication1/WEB-INF/index.html HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:16:44 +0530] "GET /WebApplication1/WEB-INF/index.html HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:19:20 +0530] "GET /WebApplication1/WEB-INF/index.html HTTP/1.1" 404 1053
+127.0.0.1 - - [12/Aug/2022:18:21:08 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:21:09 +0530] "GET /WebApplication1/WEB-INF/index.html HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [12/Aug/2022:18:21:10 +0530] "GET /WebApplication1/index.html HTTP/1.1" 200 180

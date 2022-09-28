@@ -1,0 +1,5 @@
+127.0.0.1 - - [22/Aug/2022:10:04:16 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:10:04:17 +0530] "GET /WebApplication1/ HTTP/1.1" 200 781
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:10:04:34 +0530] "POST /WebApplication1/servlet/Register HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:10:07:06 +0530] "POST /WebApplication1/servlet/Register HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:10:14:11 +0530] "POST /WebApplication1/servlet/Register HTTP/1.1" 404 1108
